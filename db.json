@@ -1,0 +1,432 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@lms.mn",
+      "password": "admin123",
+      "role": "ADMIN",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Teacher",
+      "email": "teacher@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Anu Student",
+      "email": "student@lms.mn",
+      "password": "student123",
+      "role": "STUDENT",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Temuulen Student",
+      "email": "temuulen@lms.mn",
+      "password": "student123",
+      "role": "STUDENT",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Random Teacher 1",
+      "email": "teacher1@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Random Teacher 2",
+      "email": "teacher2@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "7",
+      "name": "Random Teacher 3",
+      "email": "teacher3@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "8",
+      "name": "Random Teacher 4",
+      "email": "teacher4@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Random Teacher 5",
+      "email": "teacher5@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "10",
+      "name": "Random Teacher 6",
+      "email": "teacher6@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "11",
+      "name": "Random Teacher 7",
+      "email": "teacher7@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "12",
+      "name": "Random Teacher 8",
+      "email": "teacher8@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "13",
+      "name": "Random Teacher 9",
+      "email": "teacher9@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "14",
+      "name": "Random Teacher 10",
+      "email": "teacher10@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "name": "sssss",
+      "email": "shagai@gmail.com",
+      "password": "shagia123",
+      "role": "STUDENT",
+      "active": true,
+      "id": "UQYFAJ5dDuM"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@lms.mn",
+      "password": "admin123",
+      "role": "ADMIN",
+      "active": true
+    }
+  ],
+  "teachers": [
+    {
+      "id": "2",
+      "name": "Teacher",
+      "email": "teacher@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Random Teacher 1",
+      "email": "teacher1@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Random Teacher 2",
+      "email": "teacher2@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "7",
+      "name": "Random Teacher 3",
+      "email": "teacher3@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "8",
+      "name": "Random Teacher 4",
+      "email": "teacher4@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "9",
+      "name": "Random Teacher 5",
+      "email": "teacher5@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "10",
+      "name": "Random Teacher 6",
+      "email": "teacher6@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "11",
+      "name": "Random Teacher 7",
+      "email": "teacher7@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "12",
+      "name": "Random Teacher 8",
+      "email": "teacher8@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "13",
+      "name": "Random Teacher 9",
+      "email": "teacher9@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    },
+    {
+      "id": "14",
+      "name": "Random Teacher 10",
+      "email": "teacher10@lms.mn",
+      "password": "teacher123",
+      "role": "TEACHER",
+      "active": true
+    }
+  ],
+  "students": [
+    {
+      "id": "3",
+      "name": "Anu Student",
+      "email": "student@lms.mn",
+      "password": "student123",
+      "role": "STUDENT",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Temuulen Student",
+      "email": "temuulen@lms.mn",
+      "password": "student123",
+      "role": "STUDENT",
+      "active": true
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "React Fundamentals",
+      "description": "Component lifecycle, hooks, routing, state management suuri oilgolt.",
+      "category": "Programming",
+      "teacherId": 2,
+      "studentIds": [
+        3,
+        4,
+        "4"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "UI Design Basics",
+      "description": "Typography, color system, layout hierarchy, design critique.",
+      "category": "Design",
+      "teacherId": 2,
+      "studentIds": [
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "title": "JavaScript Essentials",
+      "description": "Variables, functions, arrays, and DOM basics for beginners.",
+      "category": "Programming",
+      "teacherId": 5,
+      "studentIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Advanced React Patterns",
+      "description": "Compound components, render props, and custom hooks in practice.",
+      "category": "Programming",
+      "teacherId": 6,
+      "studentIds": [
+        3
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Node API Bootcamp",
+      "description": "Build REST APIs with routing, middleware, and validation.",
+      "category": "Programming",
+      "teacherId": 7,
+      "studentIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "6",
+      "title": "UI Motion Basics",
+      "description": "Learn timing, easing, and micro-interaction principles.",
+      "category": "Design",
+      "teacherId": 8,
+      "studentIds": [
+        4
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Design Systems 101",
+      "description": "Create reusable components, tokens, and UI documentation.",
+      "category": "Design",
+      "teacherId": 9,
+      "studentIds": [
+        3
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Business Communication",
+      "description": "Professional writing, presentations, and team communication skills.",
+      "category": "Business",
+      "teacherId": 10,
+      "studentIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Statistics for Analysts",
+      "description": "Descriptive stats, probability, and practical data interpretation.",
+      "category": "Science",
+      "teacherId": 11,
+      "studentIds": [
+        4
+      ]
+    },
+    {
+      "id": "10",
+      "title": "English for Developers",
+      "description": "Technical vocabulary, code review communication, and meetings.",
+      "category": "Language",
+      "teacherId": 12,
+      "studentIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Algebra Refresher",
+      "description": "Core algebra concepts for computing and problem solving.",
+      "category": "Mathematics",
+      "teacherId": 13,
+      "studentIds": [
+        3
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Product Thinking Fundamentals",
+      "description": "User-centric planning, prioritization, and product decisions.",
+      "category": "Business",
+      "teacherId": 14,
+      "studentIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "wefrg",
+      "description": "wdefgt",
+      "category": "Programming",
+      "teacherId": "5",
+      "studentIds": [],
+      "id": "mSJzMFSO7rU"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "title": "Hooks Quiz",
+      "description": "useState, useEffect, useMemo hergelgee tailbarlasan bogino quiz.",
+      "dueDate": "2026-05-15"
+    },
+    {
+      "id": "2",
+      "courseId": 1,
+      "title": "Mini LMS UI",
+      "description": "Atomic architecture ashiglan course dashboard mockup hiih.",
+      "dueDate": "2026-05-20"
+    },
+    {
+      "id": "3",
+      "courseId": 2,
+      "title": "Color System Board",
+      "description": "Tailwind palette ashiglasan jijig design sistem gargah.",
+      "dueDate": "2026-05-18"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "1",
+      "assignmentId": 1,
+      "courseId": 1,
+      "studentId": 3,
+      "content": "Hooks lifecycle chart hiij tailbar havsargav.",
+      "submittedAt": "2026-04-30T08:00:00.000Z",
+      "status": "submitted"
+    }
+  ],
+  "grades": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "studentId": 3,
+      "score": 92,
+      "feedback": "Hook oilgolt sain baina.",
+      "teacherId": 2
+    },
+    {
+      "id": "2",
+      "courseId": 2,
+      "studentId": 3,
+      "score": 85,
+      "feedback": "Color hierarchy saijruulah bolomjtoi.",
+      "teacherId": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
